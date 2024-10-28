@@ -1,2 +1,2 @@
 # Studify
-Webapp for managing everything schoolrelated.
+A web app for managing everything school-related.
